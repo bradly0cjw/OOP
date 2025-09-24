@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOP2025f_HW1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OOP2025f_HW1/cmake-build-debug/_deps/googletest-src" vcs="Git" />
   </component>
 </project>
