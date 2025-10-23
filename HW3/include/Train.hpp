@@ -27,10 +27,10 @@ public:
     int GetSpeed();
     bool IsOpen();
 
-    void PowerUp();
-    void PowerDown();
-    void SpeedUp();
-    void SpeedDown();
+    virtual void PowerUp();
+    virtual void PowerDown();
+    virtual void SpeedUp() =0;
+    virtual void SpeedDown()=0;
 };
 
 #endif

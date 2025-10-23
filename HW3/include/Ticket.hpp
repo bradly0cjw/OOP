@@ -21,7 +21,7 @@ public:
     int GetTrainNumber();
     TrainType GetTrainType();
 
-    void CalculateTicketPrice();
+    virtual void CalculateTicketPrice();
 };
 
 #endif

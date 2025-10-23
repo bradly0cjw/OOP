@@ -21,7 +21,7 @@ public:
     int GetVolume();
     CargoType GetCargoType();
 
-    void CalculateTicketPrice() override;
+    virtual void CalculateTicketPrice() override;
 };
 
 #endif

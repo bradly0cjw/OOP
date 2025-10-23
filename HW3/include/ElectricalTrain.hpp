@@ -19,9 +19,9 @@ public:
     void SetSeat();
     void Charge(int hour);
 
-    void PowerUp();
-    void SpeedUp();
-    void SpeedDown();
+    void PowerUp() override;
+    void SpeedUp() override;
+    void SpeedDown() override;
 };
 
 #endif
