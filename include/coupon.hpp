@@ -1,0 +1,20 @@
+#ifndef COUPON_HPP
+#define COUPON_HPP
+
+enum Coupon {
+    SAKETIME79,
+    BACK2SCHOOL,
+    LUNCHTIME90,
+    NEWHOME70,
+    DRIVE90,
+    TECHLIFE80,
+    WEEKEND80,
+    FESTIVE80,
+    TEATIME80,
+    HEALTHY90,
+    OOPALLPASS,
+    OOPALLFAILED,
+    SAVEFOOD,
+};
+
+#endif
