@@ -1,0 +1,52 @@
+set(SRC_FILES
+    Ore/CoalOre.cpp
+    Ore/DiamondOre.cpp
+    Ore/GoldOre.cpp
+    Ore/IronOre.cpp
+    Ore/ObsidianOre.cpp
+    Ore/Ore.cpp
+    Ore/SmeltableOre.cpp
+    Pickaxe/DiamonPickaxe.cpp
+    Pickaxe/GoldPickaxe.cpp
+    Pickaxe/IronPickaxe.cpp
+    Pickaxe/Pickaxe.cpp
+    Pickaxe/StonePickaxe.cpp
+    Pickaxe/WoodenPickaxe.cpp
+    Furnace.cpp
+)
+
+set(INCLUDE_FILES
+    Ore/CoalOre.hpp
+    Ore/DiamondOre.hpp
+    Ore/GoldOre.hpp
+    Ore/IronOre.hpp
+    Ore/ObsidianOre.hpp
+    Ore/Ore.hpp
+    Ore/Product.hpp
+    Ore/SmeltableOre.hpp
+    Pickaxe/DiamondPickaxe.hpp
+    Pickaxe/GoldPickaxe.hpp
+    Pickaxe/IronPickaxe.hpp
+    Pickaxe/Pickaxe.hpp
+    Pickaxe/PickaxeType.hpp
+    Pickaxe/StonePickaxe.hpp
+    Pickaxe/WoodenPickaxe.hpp
+    Furnace.hpp
+)
+
+set(TEST_FILES
+    Ore/ut_coal_ore.cpp
+    Ore/ut_diamond_ore.cpp
+    Ore/ut_gold_ore.cpp
+    Ore/ut_iron_ore.cpp
+    Ore/ut_obsidian_ore.cpp
+    Ore/ut_ore.cpp
+    Ore/ut_smeltable_ore.cpp
+    Pickaxe/ut_diamond_pickaxe.cpp
+    Pickaxe/ut_gold_pickaxe.cpp
+    Pickaxe/ut_iron_pickaxe.cpp
+    Pickaxe/ut_pickaxe.cpp
+    Pickaxe/ut_stone_pickaxe.cpp
+    Pickaxe/ut_wooden_pickaxe.cpp
+    ut_furnace.cpp
+)
