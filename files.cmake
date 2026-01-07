@@ -1,0 +1,105 @@
+set(INCLUDE_FILES
+        Armor.hpp
+        CopperOre.hpp
+        CraftingTable.hpp
+        Diamond.hpp
+        DiamondOre.hpp
+        EnchantingTable.hpp
+        Enchantment.hpp
+        Furnace.hpp
+        GoldOre.hpp
+        IConsumable.hpp
+        IEnchantable.hpp
+        Ingot.hpp
+        IronOre.hpp
+        ISmeltable.hpp
+        LapisLazuli.hpp
+        LapisLazuliOre.hpp
+        Ore.hpp
+        Pickaxe.hpp
+        Stick.hpp
+)
+
+set(SRC_FILES
+        Armor.cpp
+        CopperOre.cpp
+        CraftingTable.cpp
+        Diamond.cpp
+        DiamondOre.cpp
+        EnchantingTable.cpp
+        Furnace.cpp
+        GoldOre.cpp
+        Ingot.cpp
+        IronOre.cpp
+        LapisLazuli.cpp
+        LapisLazuliOre.cpp
+        Pickaxe.cpp
+        Stick.cpp
+)
+
+set(TEST_FILES
+        IronOre_test.cpp
+        GoldOre_test.cpp
+        DiamondOre_test.cpp
+        Diamond_test.cpp
+        CopperOre_test.cpp
+        LapisLazuli_test.cpp
+        LapisLazuliOre_test.cpp
+        Armor_test.cpp
+        Pickaxe_test.cpp
+
+        Furnace_test.cpp
+        CraftingTable_test.cpp
+        EnchantingTable_Test.cpp
+        Tool.hpp
+        Tool.cpp
+)
+
+set(CHECK1_INCLUDE_FILES
+        Armor.hpp
+        CopperOre.hpp
+        Diamond.hpp
+        DiamondOre.hpp
+        Furnace.hpp
+        GoldOre.hpp
+        IConsumable.hpp
+        IEnchantable.hpp
+        Ingot.hpp
+        IronOre.hpp
+        ISmeltable.hpp
+        LapisLazuli.hpp
+        LapisLazuliOre.hpp
+        Ore.hpp
+        Pickaxe.hpp
+        Stick.hpp
+)
+
+set(CHECK1_SRC_FILES
+        Armor.cpp
+        CopperOre.cpp
+        Diamond.cpp
+        DiamondOre.cpp
+        Furnace.cpp
+        GoldOre.cpp
+        Ingot.cpp
+        IronOre.cpp
+        LapisLazuli.cpp
+        LapisLazuliOre.cpp
+        Pickaxe.cpp
+        Stick.cpp
+)
+
+set(CHECK1_TEST_FILES
+        IronOre_test.cpp
+        GoldOre_test.cpp
+        DiamondOre_test.cpp
+        Diamond_test.cpp
+        CopperOre_test.cpp
+        LapisLazuli_test.cpp
+        LapisLazuliOre_test.cpp
+        Armor_test.cpp
+        Pickaxe_test.cpp
+
+        Tool.hpp
+        Tool.cpp
+)
