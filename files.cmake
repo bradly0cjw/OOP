@@ -1,0 +1,41 @@
+set(SRC_FILES
+    Device/AirConditioner.cpp
+    Device/Dehumidifier.cpp
+    Device/Device.cpp
+    Device/Fan.cpp
+    Device/Light.cpp
+    Device/Loudspeaker.cpp
+    PowerSwitch/MainPowerSwitch.cpp
+    PowerSwitch/NormalPowerSwitch.cpp
+    Building.cpp
+    Company.cpp
+)
+
+set(INCLUDE_FILES
+    Device/AirConditioner.hpp
+    Device/Dehumidifier.hpp
+    Device/Device.hpp
+    Device/DeviceType.hpp
+    Device/Fan.hpp
+    Device/Light.hpp
+    Device/Loudspeaker.hpp
+    PowerSwitch/MainPowerSwitch.hpp
+    PowerSwitch/NormalPowerSwitch.hpp
+    PowerSwitch/PowerSwitch.hpp
+    PowerSwitch/PowerSwitchState.hpp
+    Building.hpp
+    Company.hpp
+)
+
+set(TEST_FILES
+    Device/ut_air_conditioner.cpp
+    Device/ut_dehumidifier.cpp
+    Device/ut_device.cpp
+    Device/ut_fan.cpp
+    Device/ut_light.cpp
+    Device/ut_loudspeaker.cpp
+    PowerSwitch/ut_main_power_switch.cpp
+    PowerSwitch/ut_normal_power_switch.cpp
+    ut_company.cpp
+    ut_building.cpp
+)
