@@ -1,0 +1,187 @@
+MSBuild version 17.14.23+b0019275e for .NET Framework
+
+  main.cpp
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,10): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(31,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,16): error C2143: syntax error: missing ';' before '<' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,33): error C2065: 'IFood': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,22): error C2923: 'std::shared_ptr': 'IFood' is not a valid template type argument for parameter '_Ty' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,33):
+      see declaration of 'IFood'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,46): error C2238: unexpected token(s) preceding ';' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(11,23): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(31,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(11,23): error C2061: syntax error: identifier 'vector' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,10): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(31,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,16): error C2143: syntax error: missing ';' before '<' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,33): error C2065: 'IFood': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,22): error C2923: 'std::shared_ptr': 'IFood' is not a valid template type argument for parameter '_Ty' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,33):
+      see declaration of 'IFood'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,50): error C2238: unexpected token(s) preceding ';' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(20,5): error C2046: illegal case [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(21,5): error C2046: illegal case [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(22,5): error C2046: illegal case [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(24,5): error C2059: syntax error: 'return' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(25,1): error C2059: syntax error: '}' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(25,1): error C2143: syntax error: missing ';' before '}' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(27,39): error C2143: syntax error: missing ';' before '{' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\ToString.hpp(27,39): error C2447: '{': missing function header (old-style formal list?) [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../test/main.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\test\main.cpp(18,13): error C2660: 'Manager::SetFood': function does not take 1 arguments [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(11,10):
+      see declaration of 'Manager::SetFood'
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\test\main.cpp(18,13):
+      while trying to match the argument list '(initializer list)'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\test\main.cpp(22,28): error C2039: 'GetFood': is not a member of 'Manager' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(6,7):
+      see declaration of 'Manager'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\test\main.cpp(59,13): error C2660: 'Manager::SetFood': function does not take 1 arguments [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(11,10):
+      see declaration of 'Manager::SetFood'
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\test\main.cpp(59,13):
+      while trying to match the argument list '(initializer list)'
+  
+  Manager.cpp
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,10): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(31,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,16): error C2143: syntax error: missing ';' before '<' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,33): error C2065: 'IFood': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,22): error C2923: 'std::shared_ptr': 'IFood' is not a valid template type argument for parameter '_Ty' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,33):
+      see declaration of 'IFood'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(8,46): error C2238: unexpected token(s) preceding ';' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(11,23): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(31,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(11,23): error C2061: syntax error: identifier 'vector' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,10): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(31,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,16): error C2143: syntax error: missing ';' before '<' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,33): error C2065: 'IFood': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,22): error C2923: 'std::shared_ptr': 'IFood' is not a valid template type argument for parameter '_Ty' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,33):
+      see declaration of 'IFood'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(13,50): error C2238: unexpected token(s) preceding ';' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  (compiling source file '../src/Manager.cpp')
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,28): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iostream(19,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,28): error C2065: 'vector': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,51): error C2065: 'IFood': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,40): error C2923: 'std::shared_ptr': 'IFood' is not a valid template type argument for parameter '_Ty' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,51):
+      see declaration of 'IFood'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,40): error C2275: 'std::shared_ptr': expected an expression instead of a type [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,59): error C2065: 'food': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,15): error C2761: 'void Manager::SetFood(void)': redeclaration of member is not allowed [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(8,65): error C2143: syntax error: missing ';' before '{' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(9,5): error C2059: syntax error: 'this' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(10,1): error C2059: syntax error: '}' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(10,1): error C2143: syntax error: missing ';' before '}' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(12,26): error C2143: syntax error: missing ';' before '{' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(12,26): error C2447: '{': missing function header (old-style formal list?) [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,6): error C2039: 'vector': is not a member of 'std' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iostream(19,1):
+      see declaration of 'std'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,12): error C2143: syntax error: missing ';' before '<' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,12): error C2059: syntax error: '<' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,29): error C2065: 'IFood': undeclared identifier [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,18): error C2923: 'std::shared_ptr': 'IFood' is not a valid template type argument for parameter '_Ty' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,29):
+      see declaration of 'IFood'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,46): error C2039: 'GetFood': is not a member of 'Manager' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+      C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\include\Manager.hpp(6,7):
+      see declaration of 'Manager'
+  
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,56): error C2143: syntax error: missing ';' before '{' [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\src\Manager.cpp(22,56): error C2447: '{': missing function header (old-style formal list?) [C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\OOPLAB.vcxproj]
+  Validator.cpp
+  Generating Code...

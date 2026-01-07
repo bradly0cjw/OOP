@@ -1,0 +1,7 @@
+MSBuild version 17.14.23+b0019275e for .NET Framework
+
+  main.cpp
+  Manager.cpp
+  Generating Code...
+  OOPLAB.vcxproj -> C:\Users\CYPONE\Documents\GitHub\NTUT\OOP\LAB02\build\Debug\OOPLAB.exe
+  Building Custom Rule C:/Users/CYPONE/Documents/GitHub/NTUT/OOP/LAB02/CMakeLists.txt
